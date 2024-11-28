@@ -14,7 +14,7 @@ Sofia's Public transport scedule web crawler using python.
 
 # Installing
 > [!WARNING]
-> It is recomended to use Linux, because it was build for linux
+> It is recomended to use Linux, because it was built for linux
 
 ## Selenium
 ```
